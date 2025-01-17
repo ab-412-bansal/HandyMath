@@ -1,0 +1,14 @@
+opencv-python
+mediapipe
+streamlit
+streamlit-extras
+numpy
+Pillow
+google-generativeai
+python-dotenv
+pandas
+cv2
+numpy
+scikit-learn
+keras
+tensorflow
